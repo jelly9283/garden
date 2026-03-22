@@ -1,0 +1,1 @@
+A warning shot in [[AI safety|AI safety]] is an event where after that the general public/AI labs see AI as a concerning risk and invest more on AI safety

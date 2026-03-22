@@ -1,0 +1,1 @@
+[[AI safety|AI safety]] is important to work on, because there is a decent chance that everyone on Earth will die because AGI/ASI killed them.

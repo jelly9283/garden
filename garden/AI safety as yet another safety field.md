@@ -1,0 +1,3 @@
+(It seems like) most people in [[AI safety|AI safety]] treat AI safety as yet another safety field. Some of them have opinions that alignment is not too hard because of this, as (for simplification) they empirically observed that LLMs obviously do not behave as power-seeking ruthless consequentialists, so we should not expect future powerful AIs to be power-seeking ruthless consequentialists. 
+
+This is bad because [[AI safety is a fundamentally different problem|AI safety is a fundamentally different problem]], and you can't apply iterative engineering on it, as we would just [[Iterative engineering may blind us from problems|iterate until we don't see any problems]].

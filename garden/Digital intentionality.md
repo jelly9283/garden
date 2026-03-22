@@ -1,0 +1,1 @@
+Digital intentionality is a form of [[Productivity|productivity]], where one aspires to use digital systems that aligns with one's intents more, and not get involuntarily sucked up by online services [[Some things are Out To Get You|designed to Get You]].

@@ -1,0 +1,3 @@
+**Natural Abstractions** in [[AI safety|AI safety]] is about discovering how [[Abstraction|abstractions]] work and form in different minds, how these abstractions relate to each other, and connections between those abstractions and the ones that humans have. [[Natural Abstractions helps us understand AI|This helps us read/manipulate/modify AI minds to our will]].
+
+One of the aims of the project would be to build a [[Thermometer for abstractions|thermometer for abstractions]].

@@ -1,0 +1,1 @@
+**Zettelkasten** is the practice of writing small, modular notes, and organizing them by linking between related notes. [[Zettelkasten is powerful|Zettelkasten is powerful]].

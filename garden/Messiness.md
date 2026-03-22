@@ -1,0 +1,1 @@
+Messiness of a system are, simply defined, things that can’t be efficiently worked on [[Mathematics|mathematics]] alone.

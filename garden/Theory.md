@@ -1,0 +1,1 @@
+A theory is a model that explains a set of phenomena by positing underlying principles, mechanisms, or relationships, and that generates testable predictions.

@@ -1,0 +1,1 @@
+Idea: do usaco things without implementation while thinking and recording and after that [[Practicing thinking faster|practice thinking faster]]

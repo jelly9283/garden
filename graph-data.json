@@ -1,0 +1,1261 @@
+{
+  "nodes": [
+    {
+      "id": "AI labs are incentivized to ignore AI alignment",
+      "label": "AI labs are incentivized to ignore AI alignment",
+      "title": "AI labs are incentivized to ignore AI alignment"
+    },
+    {
+      "id": "AI safety as yet another safety field",
+      "label": "AI safety as yet another safety field",
+      "title": "AI safety as yet another safety field"
+    },
+    {
+      "id": "AI safety is a fundamentally different problem",
+      "label": "AI safety is a fundamentally different problem",
+      "title": "AI safety is a fundamentally different problem"
+    },
+    {
+      "id": "AI safety is important",
+      "label": "AI safety is important",
+      "title": "AI safety is important"
+    },
+    {
+      "id": "AI safety is severely underfunded",
+      "label": "AI safety is severely underfunded",
+      "title": "AI safety is severely underfunded"
+    },
+    {
+      "id": "AI safety",
+      "label": "AI safety",
+      "title": "AI safety"
+    },
+    {
+      "id": "Abstraction",
+      "label": "Abstraction",
+      "title": "Abstraction"
+    },
+    {
+      "id": "Active inference",
+      "label": "Active inference",
+      "title": "Active inference"
+    },
+    {
+      "id": "Ask people for favors",
+      "label": "Ask people for favors",
+      "title": "Ask people for favors"
+    },
+    {
+      "id": "Audrey Tang",
+      "label": "Audrey Tang",
+      "title": "Audrey Tang"
+    },
+    {
+      "id": "Automated self-reflection on human values",
+      "label": "Automated self-reflection on human values",
+      "title": "Automated self-reflection on human values"
+    },
+    {
+      "id": "Brainstorm engaging things",
+      "label": "Brainstorm engaging things",
+      "title": "Brainstorm engaging things"
+    },
+    {
+      "id": "Bridge thinking and wall thinking",
+      "label": "Bridge thinking and wall thinking",
+      "title": "Bridge thinking and wall thinking"
+    },
+    {
+      "id": "Chaos induces abstractions",
+      "label": "Chaos induces abstractions",
+      "title": "Chaos induces abstractions"
+    },
+    {
+      "id": "Chore",
+      "label": "Chore",
+      "title": "Chore"
+    },
+    {
+      "id": "Common failure modes in productivity",
+      "label": "Common failure modes in productivity",
+      "title": "Common failure modes in productivity"
+    },
+    {
+      "id": "Context notes",
+      "label": "Context notes",
+      "title": "Context notes"
+    },
+    {
+      "id": "Contexts are like threads",
+      "label": "Contexts are like threads",
+      "title": "Contexts are like threads"
+    },
+    {
+      "id": "Delegate fixing cognitive bugs to external entities",
+      "label": "Delegate fixing cognitive bugs to external entities",
+      "title": "Delegate fixing cognitive bugs to external entities"
+    },
+    {
+      "id": "Digital intentionality",
+      "label": "Digital intentionality",
+      "title": "Digital intentionality"
+    },
+    {
+      "id": "Direct attack",
+      "label": "Direct attack",
+      "title": "Direct attack"
+    },
+    {
+      "id": "Do USACO things to practice thinking faster",
+      "label": "Do USACO things to practice thinking faster",
+      "title": "Do USACO things to practice thinking faster"
+    },
+    {
+      "id": "Does LLM text contain deep latent knowledge of human values",
+      "label": "Does LLM text contain deep latent knowledge of human values",
+      "title": "Does LLM text contain deep latent knowledge of human values"
+    },
+    {
+      "id": "Don't be a monk",
+      "label": "Don't be a monk",
+      "title": "Don't be a monk"
+    },
+    {
+      "id": "EA AI safety work has no gearsy understanding",
+      "label": "EA AI safety work has no gearsy understanding",
+      "title": "EA AI safety work has no gearsy understanding"
+    },
+    {
+      "id": "Five-second versions",
+      "label": "Five-second versions",
+      "title": "Five-second versions"
+    },
+    {
+      "id": "Gears-level understanding",
+      "label": "Gears-level understanding",
+      "title": "Gears-level understanding"
+    },
+    {
+      "id": "Generalizable concepts",
+      "label": "Generalizable concepts",
+      "title": "Generalizable concepts"
+    },
+    {
+      "id": "Goal-models",
+      "label": "Goal-models",
+      "title": "Goal-models"
+    },
+    {
+      "id": "Human values",
+      "label": "Human values",
+      "title": "Human values"
+    },
+    {
+      "id": "I can do anything",
+      "label": "I can do anything",
+      "title": "I can do anything"
+    },
+    {
+      "id": "I sometimes don't have the energy to yap",
+      "label": "I sometimes don't have the energy to yap",
+      "title": "I sometimes don't have the energy to yap"
+    },
+    {
+      "id": "If it's worth doing it's worth doing with made up statistics",
+      "label": "If it's worth doing it's worth doing with made up statistics",
+      "title": "If it's worth doing it's worth doing with made up statistics"
+    },
+    {
+      "id": "Inside views are better according to the rat community",
+      "label": "Inside views are better according to the rat community",
+      "title": "Inside views are better according to the rat community"
+    },
+    {
+      "id": "Invariance",
+      "label": "Invariance",
+      "title": "Invariance"
+    },
+    {
+      "id": "It's extremely hard to maximize productivity alone",
+      "label": "It's extremely hard to maximize productivity alone",
+      "title": "It's extremely hard to maximize productivity alone"
+    },
+    {
+      "id": "Iterative engineering may blind us from problems",
+      "label": "Iterative engineering may blind us from problems",
+      "title": "Iterative engineering may blind us from problems"
+    },
+    {
+      "id": "Just do stuff",
+      "label": "Just do stuff",
+      "title": "Just do stuff"
+    },
+    {
+      "id": "LLM automation of TAPs",
+      "label": "LLM automation of TAPs",
+      "title": "LLM automation of TAPs"
+    },
+    {
+      "id": "LLM safety may be good",
+      "label": "LLM safety may be good",
+      "title": "LLM safety may be good"
+    },
+    {
+      "id": "LLM safety",
+      "label": "LLM safety",
+      "title": "LLM safety"
+    },
+    {
+      "id": "Legibility of AI safety problems",
+      "label": "Legibility of AI safety problems",
+      "title": "Legibility of AI safety problems"
+    },
+    {
+      "id": "Leverage LLMs",
+      "label": "Leverage LLMs",
+      "title": "Leverage LLMs"
+    },
+    {
+      "id": "Live theory",
+      "label": "Live theory",
+      "title": "Live theory"
+    },
+    {
+      "id": "Logging Everything",
+      "label": "Logging Everything",
+      "title": "Logging Everything"
+    },
+    {
+      "id": "Long-horizon intelligence is strategic competence",
+      "label": "Long-horizon intelligence is strategic competence",
+      "title": "Long-horizon intelligence is strategic competence"
+    },
+    {
+      "id": "Long-horizon thinking",
+      "label": "Long-horizon thinking",
+      "title": "Long-horizon thinking"
+    },
+    {
+      "id": "Mathematics",
+      "label": "Mathematics",
+      "title": "Mathematics"
+    },
+    {
+      "id": "Maybe I can become better than Ray",
+      "label": "Maybe I can become better than Ray",
+      "title": "Maybe I can become better than Ray"
+    },
+    {
+      "id": "Meaning injection",
+      "label": "Meaning injection",
+      "title": "Meaning injection"
+    },
+    {
+      "id": "Messiness",
+      "label": "Messiness",
+      "title": "Messiness"
+    },
+    {
+      "id": "Metastrategic brainstorming",
+      "label": "Metastrategic brainstorming",
+      "title": "Metastrategic brainstorming"
+    },
+    {
+      "id": "Modularly Varying Goals",
+      "label": "Modularly Varying Goals",
+      "title": "Modularly Varying Goals"
+    },
+    {
+      "id": "Moonrise Problem",
+      "label": "Moonrise Problem",
+      "title": "Moonrise Problem"
+    },
+    {
+      "id": "Natural Abstraction Hypothesis",
+      "label": "Natural Abstraction Hypothesis",
+      "title": "Natural Abstraction Hypothesis"
+    },
+    {
+      "id": "Natural Abstractions helps us understand AI",
+      "label": "Natural Abstractions helps us understand AI",
+      "title": "Natural Abstractions helps us understand AI"
+    },
+    {
+      "id": "Natural Abstractions",
+      "label": "Natural Abstractions",
+      "title": "Natural Abstractions"
+    },
+    {
+      "id": "Near-AGI systems are like startups",
+      "label": "Near-AGI systems are like startups",
+      "title": "Near-AGI systems are like startups"
+    },
+    {
+      "id": "Paranoia",
+      "label": "Paranoia",
+      "title": "Paranoia"
+    },
+    {
+      "id": "Persona Selection Model",
+      "label": "Persona Selection Model",
+      "title": "Persona Selection Model"
+    },
+    {
+      "id": "Pessimism blindspot",
+      "label": "Pessimism blindspot",
+      "title": "Pessimism blindspot"
+    },
+    {
+      "id": "Politics is important for AI safety",
+      "label": "Politics is important for AI safety",
+      "title": "Politics is important for AI safety"
+    },
+    {
+      "id": "Practicing thinking faster",
+      "label": "Practicing thinking faster",
+      "title": "Practicing thinking faster"
+    },
+    {
+      "id": "Precommitments",
+      "label": "Precommitments",
+      "title": "Precommitments"
+    },
+    {
+      "id": "Productivity as a habit",
+      "label": "Productivity as a habit",
+      "title": "Productivity as a habit"
+    },
+    {
+      "id": "Productivity",
+      "label": "Productivity",
+      "title": "Productivity"
+    },
+    {
+      "id": "Rationality",
+      "label": "Rationality",
+      "title": "Rationality"
+    },
+    {
+      "id": "Reality is high-dimensional",
+      "label": "Reality is high-dimensional",
+      "title": "Reality is high-dimensional"
+    },
+    {
+      "id": "Selection theorems",
+      "label": "Selection theorems",
+      "title": "Selection theorems"
+    },
+    {
+      "id": "Shard Theory",
+      "label": "Shard Theory",
+      "title": "Shard Theory"
+    },
+    {
+      "id": "Social skills are important",
+      "label": "Social skills are important",
+      "title": "Social skills are important"
+    },
+    {
+      "id": "Some things are Out To Get You",
+      "label": "Some things are Out To Get You",
+      "title": "Some things are Out To Get You"
+    },
+    {
+      "id": "Straightforward Pessimism",
+      "label": "Straightforward Pessimism",
+      "title": "Straightforward Pessimism"
+    },
+    {
+      "id": "Symmetry",
+      "label": "Symmetry",
+      "title": "Symmetry"
+    },
+    {
+      "id": "TAP",
+      "label": "TAP",
+      "title": "TAP"
+    },
+    {
+      "id": "Telephone theorem",
+      "label": "Telephone theorem",
+      "title": "Telephone theorem"
+    },
+    {
+      "id": "The forgotten things",
+      "label": "The forgotten things",
+      "title": "The forgotten things"
+    },
+    {
+      "id": "The self-regulation thing in my brain",
+      "label": "The self-regulation thing in my brain",
+      "title": "The self-regulation thing in my brain"
+    },
+    {
+      "id": "Theoretical alignment is isolated",
+      "label": "Theoretical alignment is isolated",
+      "title": "Theoretical alignment is isolated"
+    },
+    {
+      "id": "Theory",
+      "label": "Theory",
+      "title": "Theory"
+    },
+    {
+      "id": "There are a couple misunderstandings about theoretical alignment",
+      "label": "There are a couple misunderstandings about theoretical alignment",
+      "title": "There are a couple misunderstandings about theoretical alignment"
+    },
+    {
+      "id": "Thermometer for abstractions",
+      "label": "Thermometer for abstractions",
+      "title": "Thermometer for abstractions"
+    },
+    {
+      "id": "Thought-stoppers",
+      "label": "Thought-stoppers",
+      "title": "Thought-stoppers"
+    },
+    {
+      "id": "True Name",
+      "label": "True Name",
+      "title": "True Name"
+    },
+    {
+      "id": "Trump is pulling tricks on us",
+      "label": "Trump is pulling tricks on us",
+      "title": "Trump is pulling tricks on us"
+    },
+    {
+      "id": "Trump is really evil",
+      "label": "Trump is really evil",
+      "title": "Trump is really evil"
+    },
+    {
+      "id": "Ugh field",
+      "label": "Ugh field",
+      "title": "Ugh field"
+    },
+    {
+      "id": "Unproductivity death spiral",
+      "label": "Unproductivity death spiral",
+      "title": "Unproductivity death spiral"
+    },
+    {
+      "id": "Upside risk",
+      "label": "Upside risk",
+      "title": "Upside risk"
+    },
+    {
+      "id": "Warning shot",
+      "label": "Warning shot",
+      "title": "Warning shot"
+    },
+    {
+      "id": "Wei Dai's opinion",
+      "label": "Wei Dai's opinion",
+      "title": "Wei Dai's opinion"
+    },
+    {
+      "id": "Yapping technique",
+      "label": "Yapping technique",
+      "title": "Yapping technique"
+    },
+    {
+      "id": "Zettelkasten is powerful",
+      "label": "Zettelkasten is powerful",
+      "title": "Zettelkasten is powerful"
+    },
+    {
+      "id": "Zettelkasten",
+      "label": "Zettelkasten",
+      "title": "Zettelkasten"
+    },
+    {
+      "id": "cases for-against near-term AI safety",
+      "label": "cases for-against near-term AI safety",
+      "title": "cases for-against near-term AI safety"
+    },
+    {
+      "id": "concepts suitable for framing practica maybe",
+      "label": "concepts suitable for framing practica maybe",
+      "title": "concepts suitable for framing practica maybe"
+    },
+    {
+      "id": "counterfactuality proposal",
+      "label": "counterfactuality proposal",
+      "title": "counterfactuality proposal"
+    },
+    {
+      "id": "cruxes for why language models emerge",
+      "label": "cruxes for why language models emerge",
+      "title": "cruxes for why language models emerge"
+    },
+    {
+      "id": "dislearning advice",
+      "label": "dislearning advice",
+      "title": "dislearning advice"
+    },
+    {
+      "id": "essential latents context",
+      "label": "essential latents context",
+      "title": "essential latents context"
+    },
+    {
+      "id": "exponential hypothesis branching",
+      "label": "exponential hypothesis branching",
+      "title": "exponential hypothesis branching"
+    },
+    {
+      "id": "hypothesis generation is a discrete process",
+      "label": "hypothesis generation is a discrete process",
+      "title": "hypothesis generation is a discrete process"
+    },
+    {
+      "id": "infra-bayesianism encodes paranoia",
+      "label": "infra-bayesianism encodes paranoia",
+      "title": "infra-bayesianism encodes paranoia"
+    },
+    {
+      "id": "llms as giant lookup tables of shallow computations",
+      "label": "llms as giant lookup tables of shallow computations",
+      "title": "llms as giant lookup tables of shallow computations"
+    },
+    {
+      "id": "mech interp broken or not",
+      "label": "mech interp broken or not",
+      "title": "mech interp broken or not"
+    },
+    {
+      "id": "operationalizing FDT",
+      "label": "operationalizing FDT",
+      "title": "operationalizing FDT"
+    },
+    {
+      "id": "streetlighting",
+      "label": "streetlighting",
+      "title": "streetlighting"
+    },
+    {
+      "id": "the skill of noticing individually-non-salient but repeated patterns",
+      "label": "the skill of noticing individually-non-salient but repeated patterns",
+      "title": "the skill of noticing individually-non-salient but repeated patterns"
+    },
+    {
+      "id": "theoretical and empirical alignment distinction",
+      "label": "theoretical and empirical alignment distinction",
+      "title": "theoretical and empirical alignment distinction"
+    },
+    {
+      "id": "thought experiment fsdg",
+      "label": "thought experiment fsdg",
+      "title": "thought experiment fsdg"
+    },
+    {
+      "id": "why are we not into long horizon thinking",
+      "label": "why are we not into long horizon thinking",
+      "title": "why are we not into long horizon thinking"
+    }
+  ],
+  "edges": [
+    {
+      "from": "AI labs are incentivized to ignore AI alignment",
+      "to": "EA AI safety work has no gearsy understanding",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety as yet another safety field",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety as yet another safety field",
+      "to": "AI safety is a fundamentally different problem",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety as yet another safety field",
+      "to": "Iterative engineering may blind us from problems",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety is a fundamentally different problem",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety is a fundamentally different problem",
+      "to": "AI safety as yet another safety field",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety is important",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety is severely underfunded",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety",
+      "to": "AI safety is important",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety",
+      "to": "Persona Selection Model",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety",
+      "to": "LLM safety",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety",
+      "to": "Natural Abstractions",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety",
+      "to": "Politics is important for AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety",
+      "to": "Shard Theory",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety",
+      "to": "Moonrise Problem",
+      "arrows": "to"
+    },
+    {
+      "from": "AI safety",
+      "to": "Mathematics",
+      "arrows": "to"
+    },
+    {
+      "from": "Abstraction",
+      "to": "Natural Abstractions",
+      "arrows": "to"
+    },
+    {
+      "from": "Abstraction",
+      "to": "Mathematics",
+      "arrows": "to"
+    },
+    {
+      "from": "Ask people for favors",
+      "to": "Don't be a monk",
+      "arrows": "to"
+    },
+    {
+      "from": "Ask people for favors",
+      "to": "Upside risk",
+      "arrows": "to"
+    },
+    {
+      "from": "Automated self-reflection on human values",
+      "to": "Human values",
+      "arrows": "to"
+    },
+    {
+      "from": "Automated self-reflection on human values",
+      "to": "Audrey Tang",
+      "arrows": "to"
+    },
+    {
+      "from": "Automated self-reflection on human values",
+      "to": "Leverage LLMs",
+      "arrows": "to"
+    },
+    {
+      "from": "Brainstorm engaging things",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Bridge thinking and wall thinking",
+      "to": "theoretical and empirical alignment distinction",
+      "arrows": "to"
+    },
+    {
+      "from": "Chaos induces abstractions",
+      "to": "Abstraction",
+      "arrows": "to"
+    },
+    {
+      "from": "Chaos induces abstractions",
+      "to": "Telephone theorem",
+      "arrows": "to"
+    },
+    {
+      "from": "Chore",
+      "to": "Context notes",
+      "arrows": "to"
+    },
+    {
+      "from": "Common failure modes in productivity",
+      "to": "Productivity",
+      "arrows": "to"
+    },
+    {
+      "from": "Context notes",
+      "to": "Contexts are like threads",
+      "arrows": "to"
+    },
+    {
+      "from": "Context notes",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Contexts are like threads",
+      "to": "Context notes",
+      "arrows": "to"
+    },
+    {
+      "from": "Delegate fixing cognitive bugs to external entities",
+      "to": "Ugh field",
+      "arrows": "to"
+    },
+    {
+      "from": "Delegate fixing cognitive bugs to external entities",
+      "to": "Leverage LLMs",
+      "arrows": "to"
+    },
+    {
+      "from": "Digital intentionality",
+      "to": "Productivity",
+      "arrows": "to"
+    },
+    {
+      "from": "Digital intentionality",
+      "to": "Some things are Out To Get You",
+      "arrows": "to"
+    },
+    {
+      "from": "Direct attack",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Do USACO things to practice thinking faster",
+      "to": "Practicing thinking faster",
+      "arrows": "to"
+    },
+    {
+      "from": "Does LLM text contain deep latent knowledge of human values",
+      "to": "LLM safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Don't be a monk",
+      "to": "Active inference",
+      "arrows": "to"
+    },
+    {
+      "from": "Don't be a monk",
+      "to": "Just do stuff",
+      "arrows": "to"
+    },
+    {
+      "from": "EA AI safety work has no gearsy understanding",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "EA AI safety work has no gearsy understanding",
+      "to": "Gears-level understanding",
+      "arrows": "to"
+    },
+    {
+      "from": "EA AI safety work has no gearsy understanding",
+      "to": "Long-horizon intelligence is strategic competence",
+      "arrows": "to"
+    },
+    {
+      "from": "Five-second versions",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Five-second versions",
+      "to": "Logging Everything",
+      "arrows": "to"
+    },
+    {
+      "from": "Gears-level understanding",
+      "to": "Inside views are better according to the rat community",
+      "arrows": "to"
+    },
+    {
+      "from": "Gears-level understanding",
+      "to": "Theory",
+      "arrows": "to"
+    },
+    {
+      "from": "Generalizable concepts",
+      "to": "Mathematics",
+      "arrows": "to"
+    },
+    {
+      "from": "Goal-models",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Human values",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "I sometimes don't have the energy to yap",
+      "to": "Yapping technique",
+      "arrows": "to"
+    },
+    {
+      "from": "If it's worth doing it's worth doing with made up statistics",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Inside views are better according to the rat community",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Inside views are better according to the rat community",
+      "to": "Don't be a monk",
+      "arrows": "to"
+    },
+    {
+      "from": "Inside views are better according to the rat community",
+      "to": "Gears-level understanding",
+      "arrows": "to"
+    },
+    {
+      "from": "Invariance",
+      "to": "Symmetry",
+      "arrows": "to"
+    },
+    {
+      "from": "Invariance",
+      "to": "Mathematics",
+      "arrows": "to"
+    },
+    {
+      "from": "It's extremely hard to maximize productivity alone",
+      "to": "Delegate fixing cognitive bugs to external entities",
+      "arrows": "to"
+    },
+    {
+      "from": "It's extremely hard to maximize productivity alone",
+      "to": "Productivity",
+      "arrows": "to"
+    },
+    {
+      "from": "Iterative engineering may blind us from problems",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Just do stuff",
+      "to": "Don't be a monk",
+      "arrows": "to"
+    },
+    {
+      "from": "LLM automation of TAPs",
+      "to": "TAP",
+      "arrows": "to"
+    },
+    {
+      "from": "LLM automation of TAPs",
+      "to": "Leverage LLMs",
+      "arrows": "to"
+    },
+    {
+      "from": "LLM safety may be good",
+      "to": "LLM safety",
+      "arrows": "to"
+    },
+    {
+      "from": "LLM safety",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Legibility of AI safety problems",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Leverage LLMs",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Live theory",
+      "to": "Theory",
+      "arrows": "to"
+    },
+    {
+      "from": "Logging Everything",
+      "to": "Practicing thinking faster",
+      "arrows": "to"
+    },
+    {
+      "from": "Logging Everything",
+      "to": "Yapping technique",
+      "arrows": "to"
+    },
+    {
+      "from": "Long-horizon intelligence is strategic competence",
+      "to": "Long-horizon thinking",
+      "arrows": "to"
+    },
+    {
+      "from": "Long-horizon intelligence is strategic competence",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Maybe I can become better than Ray",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Meaning injection",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Messiness",
+      "to": "Mathematics",
+      "arrows": "to"
+    },
+    {
+      "from": "Metastrategic brainstorming",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Modularly Varying Goals",
+      "to": "Natural Abstractions",
+      "arrows": "to"
+    },
+    {
+      "from": "Moonrise Problem",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Natural Abstraction Hypothesis",
+      "to": "Abstraction",
+      "arrows": "to"
+    },
+    {
+      "from": "Natural Abstractions helps us understand AI",
+      "to": "Natural Abstractions",
+      "arrows": "to"
+    },
+    {
+      "from": "Natural Abstractions helps us understand AI",
+      "to": "Thermometer for abstractions",
+      "arrows": "to"
+    },
+    {
+      "from": "Natural Abstractions",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Natural Abstractions",
+      "to": "Abstraction",
+      "arrows": "to"
+    },
+    {
+      "from": "Natural Abstractions",
+      "to": "Natural Abstractions helps us understand AI",
+      "arrows": "to"
+    },
+    {
+      "from": "Natural Abstractions",
+      "to": "Thermometer for abstractions",
+      "arrows": "to"
+    },
+    {
+      "from": "Paranoia",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Persona Selection Model",
+      "to": "LLM safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Persona Selection Model",
+      "to": "Theory",
+      "arrows": "to"
+    },
+    {
+      "from": "Pessimism blindspot",
+      "to": "Thought-stoppers",
+      "arrows": "to"
+    },
+    {
+      "from": "Politics is important for AI safety",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Politics is important for AI safety",
+      "to": "Trump is pulling tricks on us",
+      "arrows": "to"
+    },
+    {
+      "from": "Practicing thinking faster",
+      "to": "Logging Everything",
+      "arrows": "to"
+    },
+    {
+      "from": "Precommitments",
+      "to": "Productivity",
+      "arrows": "to"
+    },
+    {
+      "from": "Productivity as a habit",
+      "to": "Productivity",
+      "arrows": "to"
+    },
+    {
+      "from": "Productivity as a habit",
+      "to": "Digital intentionality",
+      "arrows": "to"
+    },
+    {
+      "from": "Productivity",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Reality is high-dimensional",
+      "to": "exponential hypothesis branching",
+      "arrows": "to"
+    },
+    {
+      "from": "Selection theorems",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Shard Theory",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Shard Theory",
+      "to": "Theory",
+      "arrows": "to"
+    },
+    {
+      "from": "Social skills are important",
+      "to": "Ask people for favors",
+      "arrows": "to"
+    },
+    {
+      "from": "Straightforward Pessimism",
+      "to": "Pessimism blindspot",
+      "arrows": "to"
+    },
+    {
+      "from": "Symmetry",
+      "to": "Mathematics",
+      "arrows": "to"
+    },
+    {
+      "from": "TAP",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Telephone theorem",
+      "to": "Natural Abstractions",
+      "arrows": "to"
+    },
+    {
+      "from": "Telephone theorem",
+      "to": "Chaos induces abstractions",
+      "arrows": "to"
+    },
+    {
+      "from": "The forgotten things",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "The forgotten things",
+      "to": "Zettelkasten",
+      "arrows": "to"
+    },
+    {
+      "from": "Theoretical alignment is isolated",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "There are a couple misunderstandings about theoretical alignment",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Thermometer for abstractions",
+      "to": "Abstraction",
+      "arrows": "to"
+    },
+    {
+      "from": "Thermometer for abstractions",
+      "to": "Natural Abstractions",
+      "arrows": "to"
+    },
+    {
+      "from": "Thought-stoppers",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Trump is pulling tricks on us",
+      "to": "Trump is really evil",
+      "arrows": "to"
+    },
+    {
+      "from": "Trump is really evil",
+      "to": "Trump is pulling tricks on us",
+      "arrows": "to"
+    },
+    {
+      "from": "Ugh field",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Unproductivity death spiral",
+      "to": "Metastrategic brainstorming",
+      "arrows": "to"
+    },
+    {
+      "from": "Unproductivity death spiral",
+      "to": "Brainstorm engaging things",
+      "arrows": "to"
+    },
+    {
+      "from": "Warning shot",
+      "to": "AI safety",
+      "arrows": "to"
+    },
+    {
+      "from": "Wei Dai's opinion",
+      "to": "Long-horizon thinking",
+      "arrows": "to"
+    },
+    {
+      "from": "Yapping technique",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "Yapping technique",
+      "to": "Ugh field",
+      "arrows": "to"
+    },
+    {
+      "from": "Yapping technique",
+      "to": "I sometimes don't have the energy to yap",
+      "arrows": "to"
+    },
+    {
+      "from": "Zettelkasten is powerful",
+      "to": "Zettelkasten",
+      "arrows": "to"
+    },
+    {
+      "from": "Zettelkasten",
+      "to": "Zettelkasten is powerful",
+      "arrows": "to"
+    },
+    {
+      "from": "concepts suitable for framing practica maybe",
+      "to": "Rationality",
+      "arrows": "to"
+    },
+    {
+      "from": "counterfactuality proposal",
+      "to": "Mathematics",
+      "arrows": "to"
+    },
+    {
+      "from": "counterfactuality proposal",
+      "to": "operationalizing FDT",
+      "arrows": "to"
+    },
+    {
+      "from": "essential latents context",
+      "to": "Natural Abstractions",
+      "arrows": "to"
+    },
+    {
+      "from": "exponential hypothesis branching",
+      "to": "Mathematics",
+      "arrows": "to"
+    },
+    {
+      "from": "hypothesis generation is a discrete process",
+      "to": "exponential hypothesis branching",
+      "arrows": "to"
+    },
+    {
+      "from": "hypothesis generation is a discrete process",
+      "to": "Mathematics",
+      "arrows": "to"
+    },
+    {
+      "from": "infra-bayesianism encodes paranoia",
+      "to": "Paranoia",
+      "arrows": "to"
+    },
+    {
+      "from": "llms as giant lookup tables of shallow computations",
+      "to": "LLM safety",
+      "arrows": "to"
+    },
+    {
+      "from": "mech interp broken or not",
+      "to": "EA AI safety work has no gearsy understanding",
+      "arrows": "to"
+    },
+    {
+      "from": "theoretical and empirical alignment distinction",
+      "to": "Persona Selection Model",
+      "arrows": "to"
+    },
+    {
+      "from": "why are we not into long horizon thinking",
+      "to": "Long-horizon thinking",
+      "arrows": "to"
+    },
+    {
+      "from": "why are we not into long horizon thinking",
+      "to": "exponential hypothesis branching",
+      "arrows": "to"
+    }
+  ],
+  "metadata": {
+    "total_files": 111,
+    "total_nodes": 111,
+    "total_edges": 139
+  }
+}

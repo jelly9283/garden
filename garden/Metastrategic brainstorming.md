@@ -1,0 +1,1 @@
+Metastrategic brainstorming is a [[Rationality|rationality]] technique that requires one to brainstorm metastrategies for a problem before doing them. This helps one stop getting stuck in loops in the middle of solving a problem

@@ -1,0 +1,1 @@
+[[Rationality|Rationality]] techniques need not take a minute to complete. You can be fluent in it and optimize it so that it becomes atomic to you. Some other rationality techniques are inherently costly and can't be reduced to five-second versions, such as [[Logging Everything|logging everything]].

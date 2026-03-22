@@ -1,0 +1,3 @@
+The yapping technique is a [[Rationality|rationality]] technique I made up that aims to reduce [[Ugh field|ugh fields]]/procrastination by continuing yapping about the subject matter until the ugh field/procrastination disappears, or otherwise I am able to robustly proceed to do stuff without the technique. The hope here is that I won't forget/ignore the ugh field/thing I should do, and expose myself to it directly for long enough so that I eventually deal with it.
+
+One (probable) failure mode for the yapping technique is that [[I sometimes don't have the energy to yap|I simply don't have the energy to yap]]

@@ -1,0 +1,3 @@
+Theoretical AI alignment is about stripping away the specific details of AI alignment and usually search for solutions that are robust in multiple architectures. Evidence about LLM alignment up until feb 2026 don't persuade most of them and their claims.
+
+Empirical AI alignment is about focusing on the details of LLM things today, some of them don't expect techniques in this paradigm to generalize to superintelligence but most hope that the early transformative AGIs will help us safeguard the future. As of now ([[2026-03-10]]) some are looking into the [[Persona Selection Model|Persona Selection Model]].

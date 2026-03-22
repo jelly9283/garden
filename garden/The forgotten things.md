@@ -1,0 +1,3 @@
+I feel like I have some forgotten things (like particular intuitions) about [[AI safety|AI safety]] ([[2026-01-22]]). A possible (~ [[2026-01-22]]) reason for this is those worldviews/beliefs are too complicated and delicate that my long-term memory can't handle the whole thing. 
+
+The best way to handle this for me so far is to write down a lot of things in my [[Zettelkasten|Zettelkasten]] garden and branch off from existing concepts so that I can relearn even if I forget everything

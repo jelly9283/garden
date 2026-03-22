@@ -1,0 +1,3 @@
+hypothesis generation is a discrete process, as in each hypothesis generating is an single event. contrary to bayesian probability, where all hypotheses are considered from the start and gradually updated up/down as they go. i noticed this when i was thinking about note-taking and capturing concepts/patterns/\[things that i notice often\], because capturing one concept in my notes is a discrete process, where in my mind it has always been developed gradually. this has some implications, i think.
+
+related: [[exponential hypothesis branching]], [[Mathematics]]

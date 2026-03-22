@@ -1,0 +1,1 @@
+The "**thermometer for [[Abstraction|abstractions]]**" is a (hypothetical) system that spits out natural abstractions for every environments you give it, and make them legible for humans. This is one of the core goals for [[Natural Abstractions|natural abstractions]].
